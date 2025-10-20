@@ -1,6 +1,6 @@
 ## Readme – Desafio de Projeto - Criando um Dashboard corporativo com integração com MySQL e Azure ## 
 
-Não foi possível usar a Azure, mesmo com a tentativa de 3 contas diferentes. Desta forma, fiz a inserção em SGBD MySQL e inseri os dados da base informada. A partir daí, foi feita a importação para o PowerBI. 
+Não foi possível usar a Azure, mesmo com a tentativa de 3 contas diferentes. Desta forma, fiz a inserção dos dados via MySQL Workbench 8.0 e inseri os dados da base informada com as devidas adequações. A partir daí, foi feita a importação para o PowerBI. 
 
 Da Análise de Dados e alterações:
 
